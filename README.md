@@ -1,3 +1,3 @@
 # Cipher-Programs
 
-This group of programs will be able to encrypt plaintext and decrypt ciphertext using a variety of ciphers
+This group of programs encrypts plaintext and decrypts ciphertext using a variety of ciphers.
